@@ -8,7 +8,7 @@ ChatGPT is boring. I want a cat to answer my questions. So I built DuckGPT!
 **[The Verge](https://www.theverge.com/2023/2/1/23580953/forget-about-chatgpt-meow-theres-catgpt) | [NPR](https://www.npr.org/transcripts/1153728071) |  [franceinfo](https://www.francetvinfo.fr/live/message/63d/8d9/e6a/37a/44f/9f5/2b1/3ed.html) | [Futurism](https://futurism.com/the-byte/catgpt-ai-answers-cat) | [Hacker News](https://news.ycombinator.com/item?id=34610292)**
 
 ## Demo
-Try DuckGPT at ...
+Try DuckGPT at [duckgpt.glitch.me](https://duckgpt.glitch.me/)
 
 ## How?
 The latest in pawtifurcial intelligence, DuckGPT uses a purr-al network and an advanced hairballgorithm to come up with natural-sounding responses.
